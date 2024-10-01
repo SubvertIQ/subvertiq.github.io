@@ -1,0 +1,15 @@
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+#brand {
+  max-height: 200px;
+}
