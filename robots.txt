@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://subvertiq.com/sitemap.xml
+Sitemap: http://subvertiq.com/sitemap.xml
