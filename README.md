@@ -1,3 +1,3 @@
-# SubvertIQ Corporate Website
+# SUBVERTIQ CORPORATE WEBSITE
 
 Official website of the SubvertIQ organization
