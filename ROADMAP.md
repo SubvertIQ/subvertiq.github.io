@@ -1,3 +1,5 @@
 # SUBVERTIQ CORPORATE WEBSITE - ROADMAP
 
-- Refactoring with Claude (AI)
+## v2.0.0
+
+- [ ] Refactoring with Claude (AI)
