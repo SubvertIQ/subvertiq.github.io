@@ -1,5 +1,7 @@
-# SUBVERTIQ CORPORATE WEBSITE - ROADMAP
+# ROADMAP
 
 ## v2.0.0
 
-- [ ] Refactoring with Claude (AI)
+### Refactoring with Claude (AI)
+
+### Backlog refinement, i.e., technical analysis

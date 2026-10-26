@@ -1,3 +1,3 @@
 # SUBVERTIQ WEBSITE
 
-SubvertIQ corporate website.
+SubvertIQ corporate website
